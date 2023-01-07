@@ -4,7 +4,7 @@
 
 <h3 align="left">Highlights</h3>
 <ul align="left">
-<li>👨 I am disciplined and self reliant programmer from Biafra.</li>
+<li>👨 I am disciplined and self reliant programmer from Uzbekistan.</li>
 <li>✍ I am currently learning software development at Microverse.</li>
 <li>🌍 I am collaborating currently with other devs around the world.</li>
 <li>🏢 I am open to new opportunities.</li>
