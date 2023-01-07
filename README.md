@@ -6,6 +6,7 @@
 <ul align="left">
 <li>👨 I am disciplined and self reliant programmer from Uzbekistan.</li>
 <li>✍ I am currently learning software development at Microverse.</li>
+<li>🦾 I’m currently expert at `JavaScript|React|Redux|Python|Ruby|RoR`</li>
 <li>🌍 I am collaborating currently with other devs around the world.</li>
 <li>🏢 I am open to new opportunities.</li>
 <li>🙄 I am a creative thinker and goal getter.</li>
