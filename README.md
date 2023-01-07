@@ -39,8 +39,11 @@
 <a href = 'https://www.facebook.com/profile.php?id=100006680568888'> <img width = '32px' align= 'center' src="https://skillicons.dev/icons?i=facebook"/></a>
 <br></br>
 <br></br>
-### 1. <img align ="center" src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> Repo stats
-<br></br>
-<img align ="center" src="https://github-readme-stats.vercel.app/api?username=haliljon&theme=tokyonight&show_icons=true"/><br></br>
-<img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haliljon&theme=tokyonight&show_icons=true"/><br></br>
+<details>
+<summary><img align ="center" src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> More stats about me</summary>
+
+<img align ="center" src="https://github-readme-stats.vercel.app/api?username=haliljon&theme=tokyonight&show_icons=true"/>
+<img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haliljon&theme=tokyonight&show_icons=true"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haliljon&&theme=tokyonight&show_icons=true" alt="eden-streak-status" />
+
+</details>
