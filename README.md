@@ -45,6 +45,6 @@
 
 <img align ="center" src="https://github-readme-stats.vercel.app/api?username=haliljon&theme=tokyonight&show_icons=true"/>
 <img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haliljon&theme=tokyonight&show_icons=true"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haliljon&&theme=tokyonight&show_icons=true" alt="eden-streak-status" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haliljon&&theme=tokyonight&show_icons=true" alt="haliljon-streak-status" />
 
 </details>
