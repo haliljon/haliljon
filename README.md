@@ -6,7 +6,7 @@
 
 - 👨 I am disciplined and self reliant programmer from Uzbekistan.
 - ✍ I am currently learning software development at Microverse.
-- 🦾 I’m currently expert at `JavaScript|React|Redux|Python|Ruby|RoR`
+- 🦾 I’m currently expert at `JavaScript|React|React Native|Redux|Python|Ruby|RoR`
 - 🌍 I am collaborating currently with other devs around the world.
 - 🏢 I am open to new opportunities.
 - 🙄 I am a creative thinker and goal getter.
