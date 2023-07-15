@@ -12,7 +12,6 @@
 - 🙄 I am a creative thinker and goal getter.
 - 🛰 You can reach me at: juraboevhaliljon@gmail.com
 
-
 <h2 > Languages and Tools 🔥  </h2>
 <div align="left">  
 <img style="margin: 10px" src="https://skillicons.dev/icons?i=js" alt="JavaScript"  width="40px" /> 
@@ -42,9 +41,9 @@
 <br></br>
 <details>
 <summary><img align ="center" src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> More stats about me</summary>
-
-<img align ="center" src="https://github-readme-stats.vercel.app/api?username=haliljon&theme=tokyonight&show_icons=true"/>
-<img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haliljon&theme=tokyonight&show_icons=true"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haliljon&&theme=tokyonight&show_icons=true" alt="haliljon-streak-status" />
-
+<div>
+<img style="width: 53%;" align ="center" src="https://github-readme-stats.vercel.app/api?username=haliljon&theme=tokyonight&show_icons=true"/>
+<img style="width: 23.5%" align ="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haliljon&theme=tokyonight&show_icons=true"/>
+<img style="width: 77%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haliljon&&theme=tokyonight&show_icons=true" alt="haliljon-streak-status" />
+</div>
 </details>
