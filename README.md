@@ -43,7 +43,7 @@
 <summary><img align ="center" src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> More stats about me</summary>
 <div>
 <img style="width: 53%;" align ="center" src="https://github-readme-stats.vercel.app/api?username=haliljon&theme=tokyonight&show_icons=true"/>
-<img style="width: 23.5%" align ="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haliljon&theme=tokyonight&show_icons=true"/>
+<img style="width: 23.5;%" align ="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haliljon&theme=tokyonight&show_icons=true"/>
 <img style="width: 77%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haliljon&&theme=tokyonight&show_icons=true" alt="haliljon-streak-status" />
 </div>
 </details>
